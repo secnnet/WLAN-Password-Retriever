@@ -16,4 +16,4 @@ License
 This script is licensed under the MIT License. Feel free to use, modify, and distribute the code as you wish.
 
 Disclaimer
-This script is provided for educational purposes only. Use it at your own risk. The author is not responsible for any damage or loss caused by the use of this script.
+This script is provided for educational purposes only. Use it at your own risk. The author is not responsible for any damage or loss caused by the use of this script. 😊 
